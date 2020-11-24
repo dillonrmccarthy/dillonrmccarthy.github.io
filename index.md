@@ -8,7 +8,7 @@ https://www.uvm.edu/mesosynthesis/</br>
 Here's a cool picture... </br>
 </br>
 
-[!Human Serum Albumin]({{ dillonrmccarthy.github.io }}/assets/HSA.png)
+[!Human Serum Albumin]({{dillonrmccarthy.github.io}}/assets/HSA.png)
 
 ### Support or Contact
 Email: dillon.mccarthy@uvm.edu
