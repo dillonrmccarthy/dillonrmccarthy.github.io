@@ -3,11 +3,13 @@ I am a PhD candidate at the University of Vermont working under the advisement o
 </br>
 </br>
 <div align="center">
+  
 http://www.uvm.edu/~jli27/
-</br>
-<img src="/assets/HSA.png" alt="Human Serum Albumin">
-https://www.uvm.edu/mesosynthesis/</br>
 
+<img src="/assets/HSA.png" alt="Human Serum Albumin">
+</br>
+https://www.uvm.edu/mesosynthesis/</br>
+<img src="/assets/IFOR.png" alt="Chemical Logic Gate">
 </br>
 
 
