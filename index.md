@@ -5,7 +5,7 @@ I am a PhD candidate at the University of Vermont working under the advisement o
 http://www.uvm.edu/~jli27/</br>
 https://www.uvm.edu/mesosynthesis/</br>
 
-Heres a cool Picture </br>
+Here's a cool picture... </br>
 </br>
 
 [!Human Serum Albumin](/assets/HSA.png)
