@@ -6,7 +6,7 @@ I am a PhD candidate at the University of Vermont working under the advisement o
 <p align="center">
   http://www.uvm.edu/~jli27/
   <img src="/assets/HSA.png" alt="Human Serum Albumin">
-
+  <br><br>
   https://www.uvm.edu/mesosynthesis/
   <img src="/assets/IFOR.png" alt="Chemical Logic Gate">
 </p>
